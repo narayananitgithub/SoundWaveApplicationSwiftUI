@@ -22,7 +22,7 @@ Open your terminal and run the following command:
 
 bash
 Copy code
-git clone https://github.com/narayananitgithub/SoundwaveApplicationSwiftUI.git
+git clone https://github.com/your-username/SoundwaveApplicationSwiftUI.git
 Open the project in Xcode:
 
 Navigate to the project directory and open SoundwaveApplicationSwiftUI.xcodeproj in Xcode.
